@@ -1,1 +1,2 @@
+我添加中文试一试
 This is my first git file
